@@ -1,1 +1,2 @@
-# SQL1
+SELECT *
+FROM
